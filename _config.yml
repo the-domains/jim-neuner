@@ -1,6 +1,6 @@
 name: Jim Neuner
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.25433
 title: Jim Neuner
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#040404'
+    - '#fdfdfd'
+    - '#9e9fa1'
+    - '#404d56'
+    - '#797977'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
