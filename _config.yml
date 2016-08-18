@@ -1,4 +1,4 @@
-name: Jim Neuner
+name: jimneuner
 favicon: null
 layout_spectrum: 0.25433
 typography_spectrum: 0.51038
@@ -26,7 +26,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: null
-    url: null
+purpose: []
